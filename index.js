@@ -40,6 +40,10 @@ if (word === convertedWord){
 
 /*
   Add written explanation of your solution here
+  when the function take any string as an arguement it first convert it to an array and then assign it to a new variable. 
+  It then reverse the arrray and assign it to another variable.
+  Then it is converted back to a string and assigned to another different variable
+  The value of this new variable if equal to the initial string inputed then the string is a palindrome and true should be returned, otherwise, false.
 */
 
 // You can run `node index.js` to view these console logs
